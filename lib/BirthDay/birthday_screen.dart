@@ -293,7 +293,8 @@ class BirthdayScreen extends StatelessWidget {
                                                       style: TextStyle(
                                                           fontSize: 8.sp,
                                                           fontWeight:
-                                                              FontWeight.w500),
+                                                              FontWeight.w600
+                                                              ),
                                                     ),
                                                     // Spacer(),
                                                     Row(
